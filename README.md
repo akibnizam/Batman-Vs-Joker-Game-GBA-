@@ -5,12 +5,12 @@ A game made entirely in C for the Gameboy Advance. The game is the chase between
 
 To install the vba emulator to play the game, do the following:
 
-sudo apt-get update
-sudo apt-get install vbam
+1. sudo apt-get update
+2. sudo apt-get install vbam
 
 To run the GBA game you may run the following command in a linux terminal:
 
-vbam -f1 GameName.gba
+1. vbam -f1 GameName.gba
 
 
 Note - As of now, the game is best played in Unix system
