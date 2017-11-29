@@ -1,8 +1,10 @@
 # Batman-Vs.-Joker-GBA-Game
 A game made entirely in C for the Gameboy Advance. The game is the chase between Batman and Joker.
 
+# How to Install
 
 To install the vba emulator to play the game, do the following:
+
 sudo apt-get update
 sudo apt-get install vbam
 
@@ -10,6 +12,8 @@ To run the GBA game you may run the following command in a linux terminal:
 
 vbam -f1 GameName.gba
 
+
+Note - As of now, the game is best played in Unix system
 
 # How to Play
 
